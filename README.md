@@ -8,7 +8,7 @@ The public release will use a Windows setup executable, not the C++ source ZIP. 
 
 ## Current release status
 
-The EQ Windows installer has not yet been uploaded to GitHub. The website's download button is intentionally disabled to avoid a broken link. Once the tested executable has been uploaded to downloads/EQ_by_Robbie_v1.4_Setup.exe, update the EQ download buttons in eq.html and support.html to link to that path.
+The EQ Windows installer is stored at `downloads/EQ_by_Robbie_v1.4_Setup.exe`, and the live website links directly to it from the homepage, plugin catalog, EQ page, and support page.
 
 Before publishing, test the installer on Windows, scan it for malware, and confirm the version and uninstall behavior.
 
